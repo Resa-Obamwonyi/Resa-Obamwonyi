@@ -2,6 +2,11 @@
 I am Resa Obamwonyi, A Software Engineer interested in building sustainable and ground breaking technological solutions. 
 When I am not coding, you can find me Reading, Writing or Watching The Big Bang Theory Show.
 
+- 🔭 I’m currently working on Becoming an all rounded Software Engineer.
+- 🌱 I’m currently learning anything Web and Web development related.
+- 💬 Ask me about PHP, SQL, HTML, CSS, Javascript, Laravel, Node Js and anything else that makes the web tick!
+- 😄 Pronouns are She/Her
+- ⚡ Fun fact: I love the sound of rain. 
 <!--
 **Resa-Obamwonyi/Resa-Obamwonyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
