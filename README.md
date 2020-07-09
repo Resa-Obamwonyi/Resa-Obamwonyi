@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Resa Obamwonyi, A Software Engineer interested in building sustainable and ground breaking technological solutions. 
+When I am not coding, you can find me Reading, Writing or Watching The Big Bang Theory Show.
 
 <!--
 **Resa-Obamwonyi/Resa-Obamwonyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
