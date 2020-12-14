@@ -4,7 +4,7 @@ When I am not coding, you can find me Reading, Writing or Watching The Big Bang 
 
 - 🔭 I’m currently working on Becoming an all rounded Software Engineer.
 - 🌱 I’m currently learning anything Web and Web development related.
-- 💬 Ask me about PHP, SQL, HTML, CSS, Javascript, Laravel, Node Js, Python and anything else that makes the web tick!
+- 💬 Ask me about PHP, SQL, HTML, CSS, Javascript, Laravel, Node Js, Python, React and anything else that makes the web tick!
 - 😄 Pronouns are She/Her
 - ⚡ Fun fact: I love the sound of rain. 
 <!--
