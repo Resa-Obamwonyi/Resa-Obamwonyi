@@ -2,10 +2,10 @@
 I am Resa Obamwonyi, A Software Engineer interested in building sustainable and ground breaking technological solutions. 
 When I am not coding, you can find me Reading, Writing or Watching TV Shows.
 
-- 🔭 I’m currently working on Becoming an all rounded Software Engineer.
-- 🌱 I’m currently learning anything Web and Web development related.
+- 🔭 I am working on Becoming an all rounded Software Engineer.
+- 🌱 I’m currently learning Elixir and Cloud Computing.
 - 💬 Ask me about Python, Javascript, Django, Flask, SQL, HTML, CSS and anything else that makes the web tick!
-- 🌱 Also, I have caught a bug for Java, Cloud and Automations.
+- 🌱 Also, I have caught a bug for Cloud Devops and Automations.
 - 😄 Pronouns are She/Her
 - ⚡ Fun fact: I love the sound of rain and solving algorithms. 
 - 📫 How to reach me: shoot me a mail at theresaobamwonyi@gmail.com
