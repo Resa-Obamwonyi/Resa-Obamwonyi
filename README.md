@@ -7,7 +7,7 @@ When I am not coding, you can find me Reading, Writing or Watching TV Shows.
 - 💬 Ask me about Python, Javascript, Django, Flask, SQL, HTML, CSS and anything else that makes the web tick!
 - 🌱 Also, I have caught a bug for Cloud Devops and Automations.
 - 😄 Pronouns are She/Her
-- ⚡ Fun fact: I love the sound of rain and solving algorithms. 
+- ⚡ Fun fact: I love the sound of rain, solving algorithms and food. 
 - 📫 How to reach me: shoot me a mail at theresaobamwonyi@gmail.com
 I really look forward to connecting with you.
 <!--
