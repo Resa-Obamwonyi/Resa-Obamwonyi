@@ -1,15 +1,15 @@
 ### Hi there 👋🏾
-I am Resa Obamwonyi, A Software Engineer interested in building sustainable and ground breaking technological solutions. 
+I am Resa Obamwonyi, A Software Engineer interested in building sustainable technological solutions. 
 When I am not coding, you can find me Reading, Writing or Watching TV Shows.
 
-- 🔭 I am working on Becoming an all rounded Software Engineer.
-- 🌱 I’m currently learning Elixir and Cloud Computing.
+- 🔭 I am working on Becoming an all-rounded Software Engineer and Technical Writer.
+- 🌱 I’m currently actively working with Elixir and Vue Js.
 - 💬 Ask me about Python, Javascript, Django, Flask, SQL, HTML, CSS and anything else that makes the web tick!
-- 🌱 Also, I have caught a bug for Cloud Devops and Automations.
+- 🌱 Also, I have caught a bug for Cloud DevOps and Automation.
 - 😄 Pronouns are She/Her
 - ⚡ Fun fact: I love the sound of rain, solving algorithms and food. 
-- 📫 How to reach me: shoot me a mail at theresaobamwonyi@gmail.com
-I really look forward to connecting with you.
+- 📫 How to reach me: shoot me an email at theresaobamwonyi@gmail.com
+I look forward to connecting with you.
 <!--
 **Resa-Obamwonyi/Resa-Obamwonyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
